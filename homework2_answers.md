@@ -38,8 +38,11 @@ The commit message should read:
 The commit message should read: 
 "Commit 2 - The 2nd set of GIT homework answers are complete".
 1. What command do you use to create a branch?
+//git branch -b "branchname"
 2. What command do you use to use a different branch?
+//git checkout "branchname"
 3. Why would you want to use a branch other than the default `master`?
+//being able to see changes in files, trying out different ways of doing things while still being able to keep all the braches
 ** Commit your work.** 
 The commit message should read: 
 "Commit 3 - The 3rd set of GIT homework answers are complete".
