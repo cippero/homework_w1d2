@@ -25,10 +25,15 @@ Submit your homework sometime **tonight** between **7 - 10pm CST** so that you c
 The commit message should read: 
 "Commit 1 - The 1st set of GIT homework answers are complete".
 1. What command do you use to pull any changes from the master repository into your local repository?
+//git pull
 2. What command do you use to unstage a file?
+//git reset "filename"
 3. What command do you use to change your files back to how they were after a commit?
+//git checkout --
 4. Why is it important to use `--` when changing files back to a previous state? ensuring that we're resetting a file and not specifying a branch
+//tells git to checkout a file, not a folder
 5. Why might you want to reset your files back to a previous commit? 
+//if your code got messed up somehow
 ** Commit your work.** 
 The commit message should read: 
 "Commit 2 - The 2nd set of GIT homework answers are complete".
