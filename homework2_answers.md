@@ -47,7 +47,10 @@ The commit message should read:
 The commit message should read: 
 "Commit 3 - The 3rd set of GIT homework answers are complete".
 1. Give an example for when you would use `git merge` and give an example for when it would be better to submit a pull request to have your branch merged
+//git merge for if you have different versions of the same file and you want to keep the information from all the different versions.
+//git pull request if you're working alongside other people and want to make sure your files are peer reviewed before getting submitted.
 2. What command do you use to send all of the work that you've done locally to your remote repository?
+//git push origin master
 ** Commit your work.** 
 The commit message should read: 
 "Commit 4 - The 4th set of GIT homework answers are complete".
