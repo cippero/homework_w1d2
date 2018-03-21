@@ -1,8 +1,11 @@
-h1 {
+h1, h2 {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   margin-top: 25px;
   font-size: 40px;
+}
+h2 {
+  font-size: 30px;
 }
 h3 {
   color: maroon;
@@ -12,6 +15,40 @@ body {
   background-color: #DDF;
 }
 img {
-  margin: 25px 0 50px 0;
+  margin: 25px auto 50px auto;
   border-radius: 10px;
+  text-align: center;
+  background-color: black;
+  display: block;
+  text-align: center;
+}
+img:hover{
+  opacity: 0.9;
+}
+nav {
+  background-color: #AAD;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+a{
+  background-color: #AAD;
+  text-decoration: none;
+  padding: 10px 15px;
+  margin: 15px;
+  border-radius: 2px;
+  color: black;
+}
+a:hover{
+  background-color: #77A;
+}
+div {
+  background-color: rgba(0,0,0,0.1);
+  width: 800px;
+  margin: 20px auto;
+  padding: 20px 10px;
+  border-radius: 5px;
+}
+.center{
+  text-align: center;
 }
