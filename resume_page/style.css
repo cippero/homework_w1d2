@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 25px;
+  font-size: 40px;
+}
+h3 {
+  color: maroon;
+}
+body {
+  padding: 0 100px 50px 100px;
+  background-color: #DDF;
+}
+img {
+  margin: 25px 0 50px 0;
+  border-radius: 10px;
+}
